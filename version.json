@@ -1,4 +1,4 @@
 {
-  "version": "1.0.1",
-  "changelog": "- Menambahkan sistem auto update\n- Perbaikan fitur setup interaktif"
+  "version": "1.1.0",
+  "changelog": "- ✨ Peningkatan sistem auto-update\n- 💬 Command /updatechannel ditambahkan\n- ⚙️ Optimasi performa dan log"
 }
